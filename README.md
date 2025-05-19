@@ -14,7 +14,8 @@ Welcome to my GitHub! I'm a PhD student in Harvard-MIT's Health Sciences and Tec
 
 ## 📂 Featured Projects
 
-- **[Coming Soon!]()** – !!
+- **[awesome-papers](https://github.com/wrickord/awesome-papers)** – Library of my favorite papers at the intersection of AI, computation, and medicine
+- **[More Coming Soon!]()** – !!
 
 ---
 
