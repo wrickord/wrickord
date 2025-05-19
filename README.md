@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Walker Rickord
 
-<!--
-**wrickord/wrickord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a PhD student in Harvard-MIT's Health Sciences and Technology program, studying computer science at MIT and medicine at Harvard Medical School. I work under Dr. [Marinka Zitnik](https://zitniklab.hms.harvard.edu).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Current Interests
+- Single-cell representation learning
+- Diffusion and flow-based methods for multi-domain problems
+- Concept learning and mechanistic modeling
+- Spectral methods for graph inference
+
+---
+
+## 📂 Featured Projects
+
+- **[Coming Soon!]()** – !!
+
+---
+
+## 🌐 Online
+- 🔗 [Website](https://wrickord.github.io)
+- 👥 [LinkedIn](https://www.linkedin.com/in/wrickord/)
+- Ｘ [X](https://x.com/wrickord)
+- 🧠 [Google Scholar](https://scholar.google.com)
+- 📫 [Email](wrickord@mit.edu)
+
+---
+
+## 📊 GitHub Stats
+
+![Walker’s GitHub stats](https://github-readme-stats.vercel.app/api?username=wrickord&show_icons=true&theme=default)
+
+---
