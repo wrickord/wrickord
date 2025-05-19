@@ -18,11 +18,11 @@ Welcome to my GitHub! I'm a PhD student in Harvard-MIT's Health Sciences and Tec
 
 ---
 
-## 🌐 Online
+## 🌐 Links
 - 🔗 [Website](https://wrickord.github.io)
 - 👥 [LinkedIn](https://www.linkedin.com/in/wrickord/)
 - Ｘ [X](https://x.com/wrickord)
-- 🧠 [Google Scholar](https://scholar.google.com)
+- 🧠 [Google Scholar](https://scholar.google.com/)
 - 📫 [Email](wrickord@mit.edu)
 
 ---
