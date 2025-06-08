@@ -23,9 +23,3 @@ Welcome to my GitHub! I'm a PhD student in Harvard-MIT's Health Sciences and Tec
 [Website](https://wrickord.github.io), [Email](wrickord@mit.edu), [Google Scholar](https://scholar.google.com/), [LinkedIn](https://www.linkedin.com/in/wrickord/), [X](https://x.com/wrickord)
 
 ---
-
-## 📊 GitHub Stats
-
-![Walker’s GitHub stats](https://github-readme-stats.vercel.app/api?username=wrickord&show_icons=true&theme=default)
-
----
