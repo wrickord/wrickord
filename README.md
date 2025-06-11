@@ -5,9 +5,10 @@ Welcome to my GitHub! I'm a PhD student in Harvard-MIT's Health Sciences and Tec
 ---
 
 ## 🔬 Current Interests
-- Single-cell representation learning
-- Diffusion and flow-based methods for multi-domain problems
+- AI for organoids
 - Concept learning and mechanistic modeling
+- Diffusion and flow-based methods for multi-domain problems
+- Single-cell representation learning
 - Spectral methods for graph inference
 
 ---
