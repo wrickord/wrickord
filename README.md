@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Walker Rickord
 
-Welcome to my GitHub! I'm a PhD student in Harvard-MIT's Health Sciences and Technology program, studying computer science at MIT and clinical medicine at Harvard Medical School. I work under Dr. [Marinka Zitnik](https://zitniklab.hms.harvard.edu). Previously, I completed a BS in bioengineering, BS in psychology, and minor in computer science at the University of Illinois Urbana-Champaign. Prior to my starting my PhD, I worked on peptide discovery ([Paul Jensen](http://jensenlab.net/people/), University of Michigan), real-time object tracking for microrobotics (Hakan Ceylan, Mayo Clinic), and neuromorphic vision sensing (Suma Cardwell, Sandia National Laboratories).
+Welcome to my GitHub! I'm a PhD student in Harvard-MIT's Health Sciences and Technology program, studying computer science at MIT and clinical medicine at Harvard Medical School. I work under Dr. [Marinka Zitnik](https://zitniklab.hms.harvard.edu). 
+
+Previously, I completed a BS in bioengineering, BS in psychology, and minor in computer science at the University of Illinois Urbana-Champaign. Prior to my starting my PhD, I worked on peptide discovery ([Paul Jensen](http://jensenlab.net/people/), University of Michigan), real-time object tracking for microrobotics (Hakan Ceylan, Mayo Clinic), and neuromorphic vision sensing (Suma Cardwell, Sandia National Laboratories).
 
 ---
 
