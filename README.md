@@ -17,7 +17,7 @@ Previously, I completed a BS in bioengineering, BS in psychology, and minor in c
 
 ## 📂 Featured Projects
 
-- **[awesome-papers](https://github.com/wrickord/awesome-papers)** – Library of my favorite papers at the intersection of AI, biology, and computer science
+- **[awesome-papers](https://github.com/wrickord/awesome-papers)** – Library of my favorite papers and resources at the intersection of AI, biology, and computer science
 - **[More Coming Soon!]()** – !!
 
 ---
