@@ -16,6 +16,6 @@ Previously, I completed a BS in bioengineering, BS in psychology, and minor in c
 ---
 
 ## 🌐 Links
-[LinkedIn](https://www.linkedin.com/in/wrickord/), [X](https://x.com/wrickord), [Email](mailto:wrickord@mit.edu)
+[LinkedIn](https://www.linkedin.com/in/wrickord/), [X](https://x.com/wrickord)
 
 ---
