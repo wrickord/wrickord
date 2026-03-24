@@ -8,9 +8,11 @@ Previously, I completed a BS in bioengineering, BS in psychology, and minor in c
 
 ## 🔬 Current Interests
 - AI for organoids
+- Single-cell representation learning
+- Improving biological context for machine learning models
+- Disease, genotype-phenotype, target identification, drug repurposing, and perturbation response modeling
 - Concept learning and mechanistic modeling
 - Diffusion and flow-based methods for multi-domain problems
-- Single-cell representation learning
 - Spectral methods for graph inference
 
 ---
