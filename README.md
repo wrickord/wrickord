@@ -13,7 +13,6 @@ Previously, I completed a BS in bioengineering, BS in psychology, and minor in c
 - Disease, genotype-phenotype, target identification, drug repurposing, and perturbation response modeling
 - Concept learning and mechanistic modeling
 - Diffusion and flow-based methods for multi-domain problems
-- Spectral methods for graph inference
 
 ---
 
